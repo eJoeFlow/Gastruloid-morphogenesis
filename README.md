@@ -1,2 +1,2 @@
-# Gastruloid morphonegesis
+# Gastruloid morphogenesis
 
